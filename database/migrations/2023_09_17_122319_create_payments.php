@@ -14,6 +14,8 @@ return new class extends Migration
         Schema::create('payments', function (Blueprint $table) {
             $table->id();
             $table->timestamps();
+            $table->float('PAYMENT_AMOUNT');
+            $table->boolean('PAYMENT_STATUS');
         });
     }
 
