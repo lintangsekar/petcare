@@ -16,6 +16,7 @@ return new class extends Migration
             $table->timestamps();
             $table->float('PAYMENT_AMOUNT');
             $table->boolean('PAYMENT_STATUS');
+            $table->dateTime('PAYMENT_DATE');
         });
     }
 
