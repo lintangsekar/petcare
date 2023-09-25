@@ -14,6 +14,10 @@ return new class extends Migration
         Schema::create('reservations', function (Blueprint $table) {
             $table->id();
             $table->timestamps();
+            $table->dateTime('TGL_RESEVE');
+            $table->string('STATUS');
+            $table->dateTime('NOTIFICATION_DATE');
+            $table->string('NOTIFICATION_MESSAGES');
         });
     }
 

@@ -18,9 +18,8 @@ return new class extends Migration
             $table->string('DESKRIPSI');
             $table->string('KATEGORI_LAYANAN');
             $table->string('KATEGORI_HEWAN');
-            $table->string('PICK_UP');
-
-        
+            $table->boolean('PICK_UP');
+            $table->float('HARGA');
         });
     }
 
