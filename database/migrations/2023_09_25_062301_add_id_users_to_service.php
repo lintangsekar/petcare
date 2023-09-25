@@ -11,10 +11,10 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('role', function (Blueprint $table) {
-            $table->id();
-            $table->timestamps();
-            $table->string('ROLE_NAME');
+        Schema::table('service', function (Blueprint $table) {
+            //
+            $table->unsignedBigInteger('ID_USERS');
+            $table->foreign('ID_USERS')->references('id')->on('service');
         });
     }
 
@@ -23,6 +23,9 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('role');
+        Schema::table('service', function (Blueprint $table) {
+            //
+            
+        });
     }
 };

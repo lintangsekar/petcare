@@ -12,8 +12,15 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('service', function (Blueprint $table) {
-            $table->id();
-            $table->timestamps();
+            $table->id('ID_SERVICE;');
+            $table->timestamps('DURASI');
+            $table->string('NAMA_SERVICE');
+            $table->string('DESKRIPSI');
+            $table->string('KATEGORI_LAYANAN');
+            $table->string('KATEGORI_HEWAN');
+            $table->string('PICK_UP');
+
+        
         });
     }
 
@@ -25,3 +32,5 @@ return new class extends Migration
         Schema::dropIfExists('service');
     }
 };
+
+
