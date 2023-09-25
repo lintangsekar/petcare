@@ -13,9 +13,10 @@ return new class extends Migration
     {
         Schema::create('reviews', function (Blueprint $table) {
             $table->id('ID_REVIEW');
-            $table->timestamps('REVIEW DATE');
+            $table->timestamps();
             $table->string('COMMENTS');
             $table->string('RATING');
+            $table->date('REVIEW_DATE');
         });
     }
 

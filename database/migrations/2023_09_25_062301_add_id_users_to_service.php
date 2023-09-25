@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::table('service', function (Blueprint $table) {
             //
             $table->unsignedBigInteger('ID_USERS');
-            $table->foreign('ID_USERS')->references('id')->on('service');
+            $table->foreign('ID_USERS')->references('id')->on('users');
         });
     }
 

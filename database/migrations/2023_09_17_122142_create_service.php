@@ -13,13 +13,15 @@ return new class extends Migration
     {
         Schema::create('service', function (Blueprint $table) {
             $table->id('ID_SERVICE');
-            $table->timestamps('DURASI');
+            $table->timestamps();
             $table->string('NAMA_SERVICE');
             $table->string('DESKRIPSI');
             $table->string('KATEGORI_LAYANAN');
             $table->string('KATEGORI_HEWAN');
             $table->boolean('PICK_UP');
             $table->float('HARGA');
+            $table->dateTime('waktu_mulai');
+            $table->dateTime('waktu_akhir');
         });
     }
 
