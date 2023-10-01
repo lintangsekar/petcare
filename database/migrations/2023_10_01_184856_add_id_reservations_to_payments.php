@@ -9,14 +9,11 @@ return new class extends Migration
     /**
      * Run the migrations.
      */
-    public function up(): void
+    public function up()
     {
-        Schema::create('reviews', function (Blueprint $table) {
-            $table->id();
-            $table->timestamps();
-            $table->string('COMMENTS');
-            $table->string('RATING');
-            $table->date('REVIEW_DATE');
+        Schema::table('payments', function (Blueprint $table) {
+            $table->unsignedBigInteger('id_reservation');
+            $table->foreign('id_reservation')->references('id')->on('reservations');
         });
     }
 
@@ -25,6 +22,8 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('reviews');
+        Schema::table('payments', function (Blueprint $table) {
+            //
+        });
     }
 };

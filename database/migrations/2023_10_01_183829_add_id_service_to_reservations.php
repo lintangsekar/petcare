@@ -9,21 +9,21 @@ return new class extends Migration
     /**
      * Run the migrations.
      */
-    public function up(): void
-    {
-        Schema::table('users', function (Blueprint $table) {
-            //
-            $table->unsignedBigInteger('ID_REVIEW');
-            $table->foreign('ID_REVIEW')->references('id')->on('REVIEW');
-        });
-    }
+public function up()
+{
+    Schema::table('reservations', function (Blueprint $table) {
+        $table->unsignedBigInteger('ID_SERVICE');
+        $table->foreign('ID_SERVICE')->references('id')->on('service');
+    });
+}
+
 
     /**
      * Reverse the migrations.
      */
     public function down(): void
     {
-        Schema::table('users', function (Blueprint $table) {
+        Schema::table('reservations', function (Blueprint $table) {
             //
         });
     }
