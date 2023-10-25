@@ -64,7 +64,7 @@
         <div class="row py-3 px-lg-5">
             <div class="col-lg-4">
                 <a href="" class="navbar-brand d-none d-lg-block">
-                    <h1 class="m-0 display-5 text-capitalize"><span class="text-primary">Pet</span>Lover</h1>
+                    <h1 class="m-0 display-5 text-capitalize"><span class="text-primary">Pet</span>CareHub</h1>
                 </a>
             </div>
             <div class="col-lg-8 text-center text-lg-right">
@@ -206,7 +206,7 @@
                     <div class="d-flex flex-column text-center bg-white mb-2 p-3 p-sm-5">
                         <h3 class="flaticon-house display-3 font-weight-normal text-secondary mb-3"></h3>
                         <h3 class="mb-3">Pet Day Care</h3>
-                        <p>Penitipan anabul dengan fasilitas lengkap dan terpercaya.</p>
+                        <p>Penitipan hewan peliharaan dengan fasilitas dan jasa terpercaya. </p>
                         <a class="text-uppercase font-weight-bold" href="">Read More</a>
                     </div>
                 </div>
@@ -214,7 +214,7 @@
                     <div class="d-flex flex-column text-center bg-white mb-2 p-3 p-sm-5">
                         <h3 class="flaticon-food display-3 font-weight-normal text-secondary mb-3"></h3>
                         <h3 class="mb-3">Pet Sitter</h3>
-                        <p>Hewan anda tidak suka menginap ditempat lain?? tak perlu khawatir, petugas kami akan menemani anabul anda di rumah anda.</p>
+                        <p>Hewan anda tidak suka menginap ditempat lain?? tak perlu khawatir, petugas kami siap menemani</p>
                         <a class="text-uppercase font-weight-bold" href="">Read More</a>
                     </div>
                 </div>
@@ -222,7 +222,7 @@
                     <div class="d-flex flex-column text-center bg-white mb-2 p-3 p-sm-5">
                         <h3 class="flaticon-grooming display-3 font-weight-normal text-secondary mb-3"></h3>
                         <h3 class="mb-3">Pet Grooming</h3>
-                        <p>Perawatan dengan jasa profesional bagi anabul tersayang.</p>
+                        <p>Perawatan dengan jasa profesional serta produk yang berkualitas bagi anabul tersayang.</p>
                         <a class="text-uppercase font-weight-bold" href="">Read More</a>
                     </div>
                 </div>
@@ -374,7 +374,7 @@
                     <div class="card-body text-center p-0">
                         <div class="team-text d-flex flex-column justify-content-center bg-light">
                             <h5>Lintang Sekar Wangi</h5>
-                            <i>Founder & CEO (anjay)</i>
+                            <i>Groomer</i>
                         </div>
                         <div class="team-social d-flex align-items-center justify-content-center bg-dark">
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
@@ -402,6 +402,31 @@
                     </div>
                 </div>
             </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="team card position-relative overflow-hidden border-0 mb-4">
+                    <img class="card-img-top" src="img/tim-3.jpg" alt="">
+                    <div class="card-body text-center p-0">
+                        <div class="team-text d-flex flex-column justify-content-center bg-light">
+                            <h5>Kate Will</h5>
+                            <i>Pet Sitter</i>
+                        </div>
+                        <div class="team-social d-flex align-items-center justify-content-center bg-dark">
+                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-outline-primary rounded-circle text-center px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-instagram"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="team card position-relative overflow-hidden border-0 mb-4">
+                    <img class="card-img-top" src="img/CEO.jpg" alt="">
+                    <div class="card-body text-center p-0">
+                        <div class="team-text d-flex flex-column justify-content-center bg-light">
+                            <h5>Lanny san</h5>
+                            <i>CEO & CO Founder</i>
+                        </div>
                         <div class="team-social d-flex align-items-center justify-content-center bg-dark">
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -481,6 +506,21 @@
                             <small class="mr-2"><i class="fa fa-comments text-muted"></i> 15</small>
                         </div>
                         <p>Tips and trick bagi anda yang ingin melatih anabul anda dari nol.</p>
+                        <a class="font-weight-bold" href="">Read More</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 mb-4">
+                <div class="card border-0 mb-2">
+                    <img class="card-img-top" src="img/blog-1.jpg" alt="">
+                    <div class="card-body bg-light p-4">
+                        <h4 class="card-title text-truncate">Manfaat Steril kucing</h4>
+                        <div class="d-flex mb-3">
+                            <small class="mr-2"><i class="fa fa-user text-muted"></i> Admin</small>
+                            <small class="mr-2"><i class="fa fa-folder text-muted"></i> Web Design</small>
+                            <small class="mr-2"><i class="fa fa-comments text-muted"></i> 15</small>
+                        </div>
+                        <p>steril kucing anda demi kesehatan kucing.</p>
                         <a class="font-weight-bold" href="">Read More</a>
                     </div>
                 </div>
