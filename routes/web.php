@@ -14,8 +14,41 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
+
+Route::get('/index', function () {
+    return view('index');
+});
+
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/service', function () {
+    return view('service');
+});
+
+Route::get('/price', function () {
+    return view('price');
+});
+
+Route::get('/booking', function () {
+    return view('booking');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+Route::get('/bloggrid', function () {
+    return view('blog');
+});
+
+Route::get('/blogdetail', function () {
+    return view('single');
+});
+
 
 Auth::routes();
 
