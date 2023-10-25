@@ -41,14 +41,17 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/blog', function () {
-    return view('blog');
+Route::get('/grid', function () {
+    return view('grid');
 });
 
-Route::get('/single', function () {
-    return view('single');
+Route::get('/detail', function () {
+    return view('detail');
 });
 
+Route::get('/home', function () {
+    return view('login');
+});
 
 Auth::routes();
 
