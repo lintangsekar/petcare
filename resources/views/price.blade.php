@@ -64,7 +64,7 @@
         <div class="row py-3 px-lg-5">
             <div class="col-lg-4">
                 <a href="" class="navbar-brand d-none d-lg-block">
-                    <h1 class="m-0 display-5 text-capitalize"><span class="text-primary">Pet</span>Lover</h1>
+                    <h1 class="m-0 display-5 text-capitalize"><span class="text-primary">Pet</span>CareHub</h1>
                 </a>
             </div>
             <div class="col-lg-8 text-center text-lg-right">
@@ -201,6 +201,7 @@
             </div>
         </div>
     </div>
+    <br> </br>
     <!-- Pricing Plan End -->
 
                 <div class="col-lg-7 py-5 py-lg-0 px-3 px-lg-5">
@@ -252,6 +253,7 @@
             </div>
         </div>
     </div>
+    <br></br>
     <!-- Booking Start -->
 
 

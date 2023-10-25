@@ -132,7 +132,7 @@
                     <div class="d-flex flex-column text-center bg-white mb-2 p-3 p-sm-5">
                         <h3 class="flaticon-house display-3 font-weight-normal text-secondary mb-3"></h3>
                         <h3 class="mb-3">Pet Day Care</h3>
-                        <p>Penitipan anabul dengan fasilitas lengkap dan terpercaya.</p>
+                        <p>Penitipan dengan fasilitas lengkap dan terpercaya. Kenyamanan menjadi prioritas kami.</p>
                         <a class="text-uppercase font-weight-bold" href="">Read More</a>
                     </div>
                 </div>
@@ -140,7 +140,7 @@
                     <div class="d-flex flex-column text-center bg-white mb-2 p-3 p-sm-5">
                         <h3 class="flaticon-food display-3 font-weight-normal text-secondary mb-3"></h3>
                         <h3 class="mb-3">Pet Sitter</h3>
-                        <p>Hewan anda tidak suka menginap ditempat lain?? tak perlu khawatir, petugas kami akan menemani anabul anda di rumah anda.</p>
+                        <p>Hewan anda tidak suka menginap ditempat lain?? tak perlu khawatir, petugas kami siap menemani</p>
                         <a class="text-uppercase font-weight-bold" href="">Read More</a>
                     </div>
                 </div>
@@ -148,7 +148,7 @@
                     <div class="d-flex flex-column text-center bg-white mb-2 p-3 p-sm-5">
                         <h3 class="flaticon-grooming display-3 font-weight-normal text-secondary mb-3"></h3>
                         <h3 class="mb-3">Pet Grooming</h3>
-                        <p>Perawatan dengan jasa profesional bagi anabul tersayang.</p>
+                        <p>Perawatan dengan jasa profesional serta produk yang berkualitas bagi anabul tersayang.</p>
                         <a class="text-uppercase font-weight-bold" href="">Read More</a>
                     </div>
                 </div>
