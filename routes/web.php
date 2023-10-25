@@ -26,7 +26,7 @@ Route::get('/about', function () {
 });
 
 Route::get('/service', function () {
-    return view('service');
+    return view('Service');
 });
 
 Route::get('/price', function () {
@@ -41,11 +41,11 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/bloggrid', function () {
+Route::get('/blog', function () {
     return view('blog');
 });
 
-Route::get('/blogdetail', function () {
+Route::get('/single', function () {
     return view('single');
 });
 
