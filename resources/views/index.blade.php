@@ -79,7 +79,7 @@
                     </div>
                     <div class="d-inline-flex flex-column text-center pl-3">
                         <h6>Call Us</h6>
-                        <p class="m-0">+012 345 6789</p>
+                        <p class="m-0">+62 812 xxx xxx</p>
                     </div>
                 </div>
             </div>
@@ -370,7 +370,7 @@
         <div class="row">
             <div class="col-lg-3 col-md-6">
                 <div class="team card position-relative overflow-hidden border-0 mb-4">
-                    <img class="card-img-top" src="img/team-1.jpg" alt="">
+                <img class="card-img-top" src="img/team-1.jpg" alt="">
                     <div class="card-body text-center p-0">
                         <div class="team-text d-flex flex-column justify-content-center bg-light">
                             <h5>Lintang Sekar Wangi</h5>
@@ -387,7 +387,7 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="team card position-relative overflow-hidden border-0 mb-4">
-                    <img class="card-img-top" src="img/team-2.jpeg" alt="">
+                <img class="card-img-top" src="img/team-2.jpeg" alt="">
                     <div class="card-body text-center p-0">
                         <div class="team-text d-flex flex-column justify-content-center bg-light">
                             <h5>Fiqhi Nadya </h5>
@@ -505,7 +505,7 @@
                             <small class="mr-2"><i class="fa fa-folder text-muted"></i> Web Design</small>
                             <small class="mr-2"><i class="fa fa-comments text-muted"></i> 15</small>
                         </div>
-                        <p>Tips and trick bagi anda yang ingin melatih anabul anda dari nol.</p>
+                        <p>Tips and trick melatih anabul anda.</p>
                         <a class="font-weight-bold" href="">Read More</a>
                     </div>
                 </div>
