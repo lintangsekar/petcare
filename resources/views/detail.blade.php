@@ -325,9 +325,8 @@
                     </div>
                 </div>
                 <div class="mb-5">
-                    <img src="img/blog-2.jpg" alt="" class="img-fluid">
-                </div>
-                <div class="mb-5">
+                    
+                <br></br>
                     <h3 class="mb-4">Tag Cloud</h3>
                     <div class="d-flex flex-wrap m-n1">
                         <a href="" class="btn btn-outline-primary m-1">Design</a>
@@ -338,16 +337,7 @@
                         <a href="" class="btn btn-outline-primary m-1">Consulting</a>
                     </div>
                 </div>
-                <div class="mb-5">
-                    <img src="img/blog-3.jpg" alt="" class="img-fluid">
-                </div>
-                <div>
-                    <h3 class="mb-4">Plain Text</h3>
-                  saya bingung 
-                </div>
-            </div>
-        </div>
-    </div>
+                
     <!-- Detail End -->
 
 
