@@ -121,7 +121,7 @@
 
 
      <!-- Services Start -->
-     <div class="container-fluid bg-light pt-5">
+    <div class="container-fluid bg-light pt-5">
         <div class="container py-5">
             <div class="d-flex flex-column text-center mb-5">
                 <h4 class="text-secondary mb-3">Our Services</h4>
@@ -164,7 +164,7 @@
         </div>
     </div>
     <!-- Services End -->
-<br> </br>
+
     <!-- Booking Start -->
     <div class="container-fluid">
         <div class="container">
@@ -253,7 +253,7 @@
     </div>
     <!-- Booking Start -->
 
-<br> </br>
+
     <!-- Pricing Plan Start -->
     <div class="container-fluid bg-light pt-5 pb-4">
         <div class="container py-5">
