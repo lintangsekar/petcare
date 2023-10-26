@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+/*<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8">
-    <title>PetLover - Pet Care Website Template</title>
+    <title>PetLover - Pet Care Website Template </title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -63,7 +63,7 @@
         </div>
         <div class="row py-3 px-lg-5">
             <div class="col-lg-4">
-                <a href="" class="navbar-brand d-none d-lg-block">
+                <a href="index" class="navbar-brand d-none d-lg-block">
                     <h1 class="m-0 display-5 text-capitalize"><span class="text-primary">Pet</span>CareHub</h1>
                 </a>
             </div>
@@ -113,7 +113,9 @@
                     </div>
                     <a href="contact" class="nav-item nav-link">Contact</a>
                 </div>
-                <a href="login" class="btn btn-lg btn-primary px-3 d-none d-lg-block">Login</a>
+                <a href="login" class="btn btn-lg btn-primary px-3 d-none d-lg-block" style="margin-right: 10px;">Login</a>
+                <a href="register" class="btn btn-lg btn-primary px-3 d-none d-lg-block">Register</a>
+                
             </div>
         </nav>
     </div>
@@ -174,7 +176,7 @@
                     <li><h5><i class="fa fa-check-double text-secondary mr-3"></i>Harga Terjangkau</h5></li>
                     <li><h5><i class="fa fa-check-double text-secondary mr-3"></i>Terpercaya</h5></li>
                 </ul>
-                <a href="about.html" class="btn btn-lg btn-primary mt-3 px-4">Learn More</a>
+                <a href="about" class="btn btn-lg btn-primary mt-3 px-4">Learn More</a>
             </div>
             <div class="col-lg-5">
                 <div class="row px-3">

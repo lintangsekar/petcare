@@ -63,7 +63,7 @@
         </div>
         <div class="row py-3 px-lg-5">
             <div class="col-lg-4">
-                <a href="" class="navbar-brand d-none d-lg-block">
+                <a href="index" class="navbar-brand d-none d-lg-block">
                     <h1 class="m-0 display-5 text-capitalize"><span class="text-primary">Pet</span>CareHub</h1>
                 </a>
             </div>
@@ -113,7 +113,8 @@
                     </div>
                     <a href="contact" class="nav-item nav-link">Contact</a>
                 </div>
-                <a href="login" class="btn btn-lg btn-primary px-3 d-none d-lg-block">Login</a>
+                <a href="login" class="btn btn-lg btn-primary px-3 d-none d-lg-block" style="margin-right: 10px;">Login</a>
+                <a href="register" class="btn btn-lg btn-primary px-3 d-none d-lg-block">Register</a>
             </div>
         </nav>
     </div>
