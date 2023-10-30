@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>PetLover - Pet Care Website Template </title>
+    <title>PetCareHub - Pet Care Website Template </title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -506,8 +506,8 @@
     <div class="container-fluid bg-dark text-white mt-5 py-5 px-sm-3 px-md-5">
         <div class="row pt-5">
             <div class="col-lg-4 col-md-12 mb-5">
-                <h1 class="mb-3 display-5 text-capitalize text-white"><span class="text-primary">Pet</span>Lover</h1>
-                <p class="m-0">Pet CareHub adalah jawaban dari keresahan para owner anabul untuk menemukan jasa yang tepat bagi anabulnya. Kami mempertemukan para owner dengan para tenaga profesional yang siap sedia membantu para customer.</p>
+                <h1 class="mb-3 display-5 text-capitalize text-white"><span class="text-primary">Pet</span>CareHub</h1>
+                <p class="m-0">PetCareHub adalah jawaban dari keresahan para owner anabul untuk menemukan jasa yang tepat bagi anabulnya. PetCareHub mempertemukan para owner dengan para tenaga profesional yang siap sedia membantu para customer.</p>
             </div>
             <div class="col-lg-8 col-md-12">
                 <div class="row">
