@@ -1,0 +1,97 @@
+
+
+/* public/css/custom.css */
+
+/* Atur warna latar belakang halaman */
+body {
+    background-color: #f4f4f4; /* Ubah warna sesuai preferensi Anda */
+}
+
+/* Atur warna latar belakang card */
+.card {
+    background-color: #fff; /* Ubah warna sesuai preferensi Anda */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* Tambahkan bayangan sesuai preferensi Anda */
+    border-radius: 10px; /* Atur sudut bulat sesuai preferensi Anda */
+}
+
+/* Atur warna latar belakang tombol "Login" */
+.btn-primary {
+    background-color: #007BFF; /* Ubah warna sesuai preferensi Anda */
+    border: none; /* Hapus border tombol */
+}
+
+/* Atur warna teks pada tombol "Login" */
+.btn-primary:hover {
+    background-color: #0056b3; /* Ubah warna saat tombol dihover sesuai preferensi Anda */
+}
+
+/* Atur warna teks pada tombol "Forgot Your Password?" */
+.btn-link {
+    color: #007BFF; /* Ubah warna teks sesuai preferensi Anda */
+}
+
+/* Atur jarak antara elemen-elemen dalam form */
+.form-group {
+    margin-bottom: 20px;
+}
+
+/* Atur padding pada elemen input */
+.form-control {
+    padding: 10px;
+}
+
+/* Atur warna teks pada label input */
+.form-group label {
+    color: #333; /* Ubah warna teks sesuai preferensi Anda */
+}
+
+/* Atur margin pada elemen "Remember Me" */
+.form-check {
+    margin-top: 10px;
+}
+
+
+/* public/css/custom.css */
+
+/* Atur warna latar belakang halaman */
+body {
+    background-color: #f4f4f4; /* Ubah warna sesuai preferensi Anda */
+}
+
+/* Atur warna latar belakang card */
+.card {
+    background-color: #fff; /* Ubah warna sesuai preferensi Anda */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* Tambahkan bayangan sesuai preferensi Anda */
+    border-radius: 10px; /* Atur sudut bulat sesuai preferensi Anda */
+}
+
+/* Atur warna latar belakang tombol "Register" */
+.btn-primary {
+    background-color: #007BFF; /* Ubah warna sesuai preferensi Anda */
+    border: none; /* Hapus border tombol */
+}
+
+/* Atur warna teks pada tombol "Register" */
+.btn-primary:hover {
+    background-color: #0056b3; /* Ubah warna saat tombol dihover sesuai preferensi Anda */
+}
+
+/* Atur warna teks pada label input */
+.form-group label {
+    color: #333; /* Ubah warna teks sesuai preferensi Anda */
+}
+
+/* Atur jarak antara elemen-elemen dalam form */
+.form-group {
+    margin-bottom: 20px;
+}
+
+/* Atur padding pada elemen input */
+.form-control {
+    padding: 10px;
+}
+
+/* Atur margin pada elemen "Confirm Password" */
+#password-confirm {
+    margin-bottom: 20px;
+}
