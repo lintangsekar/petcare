@@ -60,7 +60,7 @@
 
 
     <!-- Navbar Start -->
-    <div class="container-fluid p-0">
+    {{-- <div class="container-fluid p-0">
         <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 py-lg-0 px-lg-5">
             <a href="index" class="navbar-brand d-block d-lg-none">
                 <h1 class="m-0 display-5 text-capitalize font-italic text-white"><span class="text-primary">Pet</span>CareHub</h1>
@@ -88,7 +88,7 @@
                 <a href="register" class="btn btn-lg btn-primary px-3 d-none d-lg-block">Register</a>
             </div>
         </nav>
-    </div>
+    </div> --}}
     <!-- Navbar End -->
 
 
@@ -241,7 +241,7 @@
 
 
     <!-- Footer Start -->
-    <div class="container-fluid bg-dark text-white mt-5 py-5 px-sm-3 px-md-5">
+    {{-- <div class="container-fluid bg-dark text-white mt-5 py-5 px-sm-3 px-md-5">
         <div class="row pt-5">
             <div class="col-lg-4 col-md-12 mb-5">
                 <h1 class="mb-3 display-5 text-capitalize text-white"><span class="text-primary">Pet</span>CareHub</h1>
@@ -314,7 +314,7 @@
                 </ul>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- Footer End -->
 
 

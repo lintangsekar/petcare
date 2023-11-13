@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\serviceController;
 
 /*
 |--------------------------------------------------------------------------
@@ -49,6 +50,9 @@ Route::get('/detail', function () {
     return view('detail');
 });
 
+Route::get('/admin', function () {
+    return view('admin');
+});
 
 Auth::routes();
 
@@ -57,3 +61,11 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+// Route::resource('/service',serviceController::class);
+Route::get('/service', [serviceController::class, 'index'])->name('service.index');
+Route::get('/service/create', [serviceController::class, 'create'])->name('service.create');
+Route::post('/service', [serviceController::class, 'store'])->name('service.store');
+Route::get('/service/{id}/edit', [serviceController::class, 'edit'])->name('service.edit');
+Route::put('/service/{id}', [serviceController::class, 'update'])->name('service.update');
+Route::delete('/service/{id}', [serviceController::class, 'destroy'])->name('service.destroy');

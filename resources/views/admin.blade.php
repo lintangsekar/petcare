@@ -1,5 +1,7 @@
 <head>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="{{ asset('css/admin.css') }}" rel="stylesheet">
+
   </head>
   
   <body>
@@ -85,7 +87,7 @@
         <li><a class="indigo-text" href="#!">Logout</a></li>
       </ul>
   
-      <nav class="indigo" role="navigation">
+      <nav class="indigo" role="navigation">    
         <div class="nav-wrapper">
           <a data-activates="slide-out" class="button-collapse show-on-" href="#!"><img style="margin-top: 17px; margin-left: 5px;" src="https://res.cloudinary.com/dacg0wegv/image/upload/t_media_lib_thumb/v1463989873/smaller-main-logo_3_bm40iv.gif" /></a>
   
