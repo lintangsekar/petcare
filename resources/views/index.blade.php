@@ -323,7 +323,7 @@
                     <div class="card-body text-center p-0">
                         <div class="team-text d-flex flex-column justify-content-center bg-light">
                             <h5>Lintang Sekar Wangi</h5>
-                            <i>Groomer</i>
+                            <i>UI/UX Designers</i>
                         </div>
                         <div class="team-social d-flex align-items-center justify-content-center bg-dark">
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
@@ -340,7 +340,7 @@
                     <div class="card-body text-center p-0">
                         <div class="team-text d-flex flex-column justify-content-center bg-light">
                             <h5>Fiqhi Nadya </h5>
-                            <i>Pet Sitter</i>
+                            <i>UI/UX Designers</i>
                         </div>
                         <div class="team-social d-flex align-items-center justify-content-center bg-dark">
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
@@ -357,7 +357,7 @@
                     <div class="card-body text-center p-0">
                         <div class="team-text d-flex flex-column justify-content-center bg-light">
                             <h5>Kate Will</h5>
-                            <i>Pet Sitter</i>
+                            <i>Human Resources</i>
                         </div>
                         <div class="team-social d-flex align-items-center justify-content-center bg-dark">
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
@@ -374,7 +374,7 @@
                     <div class="card-body text-center p-0">
                         <div class="team-text d-flex flex-column justify-content-center bg-light">
                             <h5>Lanny san</h5>
-                            <i>CEO & CO Founder</i>
+                            <i>CEO/Founder</i>
                         </div>
                         <div class="team-social d-flex align-items-center justify-content-center bg-dark">
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
