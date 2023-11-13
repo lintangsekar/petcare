@@ -30,37 +30,15 @@
 
 <body>
     <!-- Topbar Start -->
-    <div class="container-fluid">
-        <div class="row py-3 px-lg-5">
-            <div class="col-lg-4">
-                <a href="index" class="navbar-brand d-none d-lg-block">
-                    <h1 class="m-0 display-5 text-capitalize"><span class="text-primary">Pet</span>CareHub</h1>
-                </a>
-            </div>
-            <div class="col-lg-8 text-center text-lg-right">
-                <div class="d-inline-flex align-items-center">
-                    <div class="d-inline-flex flex-column text-center pr-3 border-right">
-                        <h6>Opening Hours</h6>
-                        <p class="m-0">8.00AM - 9.00PM</p>
-                    </div>
-                    <div class="d-inline-flex flex-column text-center px-3 border-right">
-                        <h6>Email Us</h6>
-                        <p class="m-0">info@example.com</p>
-                    </div>
-                    <div class="d-inline-flex flex-column text-center pl-3">
-                        <h6>Call Us</h6>
-                        <p class="m-0">+62 812 xxx xxx</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <!-- Topbar End -->
 
 
     <!-- Navbar Start -->
     <div class="container-fluid p-0">
         <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3 py-lg-0 px-lg-5">
+            <a href="index" class="navbar-brand d-none d-lg-block">
+                <h1 class="m-0 display-5 text-capitalize"><span class="text-primary">Pet</span><span style="color: white;">CareHub</span></h1>
+            </a>            
             <a href="" class="navbar-brand d-block d-lg-none">
                 <h1 class="m-0 display-5 text-capitalize font-italic text-white"><span class="text-primary">Pet</span>CareHub</h1>
             </a>
@@ -174,42 +152,41 @@
                 <h1 class="display-4 m-0"><span class="text-primary">Premium</span> Pet Services</h1>
             </div>
             <div class="row pb-3">
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="d-flex flex-column text-center bg-white mb-2 p-3 p-sm-5">
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="d-flex flex-column align-items-center text-center bg-white p-4">
                         <h3 class="flaticon-house display-3 font-weight-normal text-secondary mb-3"></h3>
                         <h3 class="mb-3">Pet Day Care</h3>
-                        <p>Penitipan hewan peliharaan dengan fasilitas dan jasa terpercaya. </p>
-                        <a class="text-uppercase font-weight-bold" href="">Read More</a>
+                        <p class="mb-4">PetcareHub menyediakan penitipan hewan peliharaan dengan fasilitas dan jasa terpercaya.</p>
+                        <a class="btn btn-secondary btn-sm" href="">Read More</a>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="d-flex flex-column text-center bg-white mb-2 p-3 p-sm-5">
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="d-flex flex-column align-items-center text-center bg-white p-4">
                         <h3 class="flaticon-food display-3 font-weight-normal text-secondary mb-3"></h3>
                         <h3 class="mb-3">Pet Sitter</h3>
-                        <p>Hewan anda tidak suka menginap ditempat lain?? tak perlu khawatir, petugas kami siap menemani</p>
-                        <a class="text-uppercase font-weight-bold" href="">Read More</a>
+                        <p class="mb-4">Hewan anda tidak suka menginap ditempat lain? Tak perlu khawatir, petugas kami siap menemani.</p>
+                        <a class="btn btn-secondary btn-sm" href="">Read More</a>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="d-flex flex-column text-center bg-white mb-2 p-3 p-sm-5">
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="d-flex flex-column align-items-center text-center bg-white p-4">
                         <h3 class="flaticon-grooming display-3 font-weight-normal text-secondary mb-3"></h3>
                         <h3 class="mb-3">Pet Grooming</h3>
-                        <p>Perawatan dengan jasa profesional serta produk yang berkualitas bagi anabul tersayang.</p>
-                        <a class="text-uppercase font-weight-bold" href="">Read More</a>
+                        <p class="mb-4">Perawatan dengan jasa profesional serta produk yang berkualitas bagi anabul tersayang.</p>
+                        <a class="btn btn-secondary btn-sm" href="">Read More</a>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 mb-4">
-                    <div class="d-flex flex-column text-center bg-white mb-2 p-3 p-sm-5">
+                <div class="col-md-6 col-lg-3 mb-4">
+                    <div class="d-flex flex-column align-items-center text-center bg-white p-4">
                         <h3 class="flaticon-cat display-3 font-weight-normal text-secondary mb-3"></h3>
                         <h3 class="mb-3">Pet Training</h3>
-                        <p>Ingin anabul anda terlatih agar dapat diajak bermain tricks? pilih trainer terpercaya anda disimi.</p>
-                        <a class="text-uppercase font-weight-bold" href="">Read More</a>
+                        <p class="mb-4">Ingin anabul anda terlatih agar dapat diajak bermain tricks? Pilih trainer terpercaya anda disini.</p>
+                        <a class="btn btn-secondary btn-sm" href="">Read More</a>
                     </div>
                 </div>
-                
             </div>
         </div>
-    </div>
+    </div>    
     <!-- Services End -->
 
 
@@ -346,7 +323,7 @@
                     <div class="card-body text-center p-0">
                         <div class="team-text d-flex flex-column justify-content-center bg-light">
                             <h5>Lintang Sekar Wangi</h5>
-                            <i>Groomer</i>
+                            <i>UI/UX Designers</i>
                         </div>
                         <div class="team-social d-flex align-items-center justify-content-center bg-dark">
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
@@ -363,7 +340,7 @@
                     <div class="card-body text-center p-0">
                         <div class="team-text d-flex flex-column justify-content-center bg-light">
                             <h5>Fiqhi Nadya </h5>
-                            <i>Pet Sitter</i>
+                            <i>UI/UX Designers</i>
                         </div>
                         <div class="team-social d-flex align-items-center justify-content-center bg-dark">
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
@@ -380,7 +357,7 @@
                     <div class="card-body text-center p-0">
                         <div class="team-text d-flex flex-column justify-content-center bg-light">
                             <h5>Kate Will</h5>
-                            <i>Pet Sitter</i>
+                            <i>Human Resources</i>
                         </div>
                         <div class="team-social d-flex align-items-center justify-content-center bg-dark">
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
@@ -397,7 +374,7 @@
                     <div class="card-body text-center p-0">
                         <div class="team-text d-flex flex-column justify-content-center bg-light">
                             <h5>Lanny san</h5>
-                            <i>CEO & CO Founder</i>
+                            <i>CEO/Founder</i>
                         </div>
                         <div class="team-social d-flex align-items-center justify-content-center bg-dark">
                             <a class="btn btn-outline-primary rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
@@ -513,9 +490,9 @@
                 <div class="row">
                     <div class="col-md-4 mb-5">
                         <h5 class="text-primary mb-4">Get In Touch</h5>
-                        <p><i class="fa fa-map-marker-alt mr-2"></i>Location, City, Country</p>
-                        <p><i class="fa fa-phone-alt mr-2"></i>+62 812 xxx xxx</p>
-                        <p><i class="fa fa-envelope mr-2"></i>info@example.com</p>
+                        <p><i class="fa fa-map-marker-alt mr-2"></i>Gubeng, Surabaya, Indonesia</p>
+                        <p><i class="fa fa-phone-alt mr-2"></i>(031) 532 6403</p>
+                        <p><i class="fa fa-envelope mr-2"></i>petcarehub@gmail.com</p>
                         <div class="d-flex justify-content-start mt-4">
                             <a class="btn btn-outline-light rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light rounded-circle text-center mr-2 px-0" style="width: 36px; height: 36px;" href="#"><i class="fab fa-facebook-f"></i></a>
