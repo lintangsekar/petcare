@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\roleController;
 
 /*
 |--------------------------------------------------------------------------
@@ -57,3 +58,11 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Route::resource('/role',roleController::class);
+Route::get('/role', [roleController::class, 'index'])->name('role.index');
+Route::get('/role/create', [roleController::class, 'create'])->name('role.create');
+Route::post('/role', [roleController::class, 'store'])->name('role.store');
+Route::get('/role/{id}/edit', [roleController::class, 'edit'])->name('role.edit');
+Route::put('/role/{id}', [roleController::class, 'update'])->name('role.update');
+Route::delete('/role/{id}', [roleController::class, 'destroy'])->name('role.destroy');
